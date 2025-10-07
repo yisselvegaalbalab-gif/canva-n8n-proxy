@@ -1,8 +1,6 @@
 {
   "name": "canva-n8n-proxy",
   "version": "1.0.0",
-  "description": "Proxy para redirigir OAuth Canva a n8n",
   "main": "api/callback.js",
-  "type": "module",
-  "dependencies": {}
+  "license": "MIT"
 }
